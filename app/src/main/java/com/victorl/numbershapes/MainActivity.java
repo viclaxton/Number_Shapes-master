@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         if (myNumber.isSquare()) {
             if (myNumber.isTriangular()) {
 
-                message = myNumber.number + " is both triangular and square!";
+                message = myNumber.number + " is both triangular and square!!";
 
             } else {
                 message = myNumber.number + " is square, but not triangular!";
